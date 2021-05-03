@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Transact\\UnitTestProject\\SearchEngine.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj",
+        "projectName": "SearchEngine.Library",
+        "projectPath": "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Transact\\SearchEngine.DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.5": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.6": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.7": {},
+          "D:\\BertoniSolutions\\LAGFramework\\2.3.3": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj",
+        "projectName": "SearchEngine.Request",
+        "projectPath": "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Transact\\SearchEngine.HttpRequest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.5": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.6": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.7": {},
+          "D:\\BertoniSolutions\\LAGFramework\\2.3.3": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.33, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj",
+        "projectName": "SearchEngine.Interfaces",
+        "projectPath": "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Transact\\SearchEngine.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.5": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.6": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.7": {},
+          "D:\\BertoniSolutions\\LAGFramework\\2.3.3": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Transact\\SearchEngine.LIB\\SearchEngine.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Transact\\SearchEngine.LIB\\SearchEngine.Services.csproj",
+        "projectName": "SearchEngine.Services",
+        "projectPath": "D:\\Transact\\SearchEngine.LIB\\SearchEngine.Services.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Transact\\SearchEngine.LIB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.5": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.6": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.7": {},
+          "D:\\BertoniSolutions\\LAGFramework\\2.3.3": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj"
+              },
+              "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj"
+              },
+              "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.Interfaces\\SearchEngine.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Transact\\UnitTestProject\\SearchEngine.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Transact\\UnitTestProject\\SearchEngine.Tests.csproj",
+        "projectName": "SearchEngine.Tests",
+        "projectPath": "D:\\Transact\\UnitTestProject\\SearchEngine.Tests.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Transact\\UnitTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.5": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.6": {},
+          "D:\\BertoniSolutions\\Docugate_library\\1.4.7": {},
+          "D:\\BertoniSolutions\\LAGFramework\\2.3.3": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HMymrlNWUYfi7zol1kQhj2xp6qZeKmXdionitzLxAPjw31mkzW/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.DAO\\SearchEngine.Library.csproj"
+              },
+              "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.HttpRequest\\SearchEngine.Request.csproj"
+              },
+              "D:\\Transact\\SearchEngine.LIB\\SearchEngine.Services.csproj": {
+                "projectPath": "D:\\Transact\\SearchEngine.LIB\\SearchEngine.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

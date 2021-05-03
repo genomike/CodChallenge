@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tranzact\\SearchEngineComparative\\SearchEngine.Wapireader\\SearchEngine.Wapireader.csproj": {}
+  },
+  "projects": {
+    "D:\\Tranzact\\SearchEngineComparative\\SearchEngine.Wapireader\\SearchEngine.Wapireader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tranzact\\SearchEngineComparative\\SearchEngine.Wapireader\\SearchEngine.Wapireader.csproj",
+        "projectName": "SearchEngine.Wapireader",
+        "projectPath": "D:\\Tranzact\\SearchEngineComparative\\SearchEngine.Wapireader\\SearchEngine.Wapireader.csproj",
+        "packagesPath": "C:\\Users\\genoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Tranzact\\SearchEngineComparative\\SearchEngine.Wapireader\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\genoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "D:\\BertoniSolutions\\NugetPckg\\Docugate\\1.4.3": {},
+          "D:\\BertoniSolutions\\NugetPckg\\Docugate\\1.4.6": {},
+          "D:\\BertoniSolutions\\NugetPckg\\Docugate\\1.4.7": {},
+          "D:\\BertoniSolutions\\NugetPckg\\LAGFramework": {},
+          "D:\\BertoniSolutions\\NugetPckg\\LAGFramework\\2.2.0": {},
+          "D:\\BertoniSolutions\\NugetPckg\\SourceLink.Test.2.2.0": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

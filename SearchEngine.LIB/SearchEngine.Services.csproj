@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SearchEngine.DAO\SearchEngine.Library.csproj" />
+    <ProjectReference Include="..\SearchEngine.HttpRequest\SearchEngine.Request.csproj" />
+    <ProjectReference Include="..\SearchEngine.Interfaces\SearchEngine.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

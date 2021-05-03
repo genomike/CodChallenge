@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchEngine.Console": {
+      "commandName": "Project",
+      "commandLineArgs": ".NET Java \"Java script\" Jquery PHP"
+    }
+  }
+}

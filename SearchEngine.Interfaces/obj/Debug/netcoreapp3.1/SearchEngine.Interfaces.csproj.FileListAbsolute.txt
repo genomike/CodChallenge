@@ -1,0 +1,16 @@
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.deps.json
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.dll
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.pdb
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.AssemblyInfoInputs.cache
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.AssemblyInfo.cs
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.csproj.CoreCompileInputs.cache
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.dll
+D:\papá\SearchEngineComparative\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.pdb
+D:\Transact\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.deps.json
+D:\Transact\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.dll
+D:\Transact\SearchEngine.Interfaces\bin\Debug\netcoreapp3.1\SearchEngine.Interfaces.pdb
+D:\Transact\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.AssemblyInfoInputs.cache
+D:\Transact\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.AssemblyInfo.cs
+D:\Transact\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.csproj.CoreCompileInputs.cache
+D:\Transact\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.dll
+D:\Transact\SearchEngine.Interfaces\obj\Debug\netcoreapp3.1\SearchEngine.Interfaces.pdb
